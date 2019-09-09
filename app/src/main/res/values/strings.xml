@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">ShoeCase</string>
+    <string name="app_login">Already have an account?</string>
+    <string name="app_rights">© 2018 Shoecase. All right reserved.</string>
+    <string name="open">open</string>
+    <string name="close">Close</string>
+    <string-array name="query_suggestions">
+        <item>Slippers</item>
+        <item>Snikers</item>
+        <item>Nike Sports Shoes</item>
+        <item>Addidas Sports Shoes</item>
+        <item>Sports Shoes</item>
+        <item>Formal Shoes</item>
+        <item>Sandals</item>
+    </string-array>
+    <string name="title_activity_main_page">MainPage</string>
+    <string name="tab_text_1">Home</string>
+    <string name="tab_text_2">Men</string>
+    <string name="tab_text_3">Women</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+</resources>
